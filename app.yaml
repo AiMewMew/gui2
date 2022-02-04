@@ -6,8 +6,4 @@ runtime_config:
 entrypoint: 
   serve index.php
 
-env_variables:
 
-CLOUDSQL_DB: database
-CLOUDSQL_PASSWORD: SS$$1254
-CLOUD_DSN: /cloudsql/capable-passage-339910
