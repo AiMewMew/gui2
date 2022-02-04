@@ -3,7 +3,7 @@
 //$username = "root";
 //$password = "";
 //$dbname = "gui";
-$username = getenv('CLOUDSQL_USER');
+//$username = getenv('CLOUDSQL_USER');
 $password = getenv('CLOUDSQL_PASSWORD');
 $dbname = getenv('CLOUDSQL_DB');
 
