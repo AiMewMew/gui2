@@ -8,7 +8,6 @@ entrypoint:
 
 env_variables:
 
-CLOUDSQL_USER: document_root
 CLOUDSQL_DB: database
 CLOUDSQL_PASSWORD: SS$$1254
 CLOUD_DSN: /cloudsql/capable-passage-339910
